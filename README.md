@@ -87,7 +87,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 - - -
 
-### Other Analyses
+### Other Analysis
 
 ### Temperature Analysis I
 
